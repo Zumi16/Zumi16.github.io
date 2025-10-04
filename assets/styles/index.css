@@ -2,27 +2,25 @@
     margin: 0;
     padding: 0;
     color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 .navbar {
     display: flex;
-    gap: 10px;
+    gap: 40%;
     height: 50px;
     width: 100%;
     background-color: rgb(38, 53, 106);
 }
+
 .nav-links {
     display: flex;
-    gap: 10px;
-}
-
-ul {
+    gap: 50px;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+    font-weight: bold;
     list-style: none;
-
-}
-
-.nav-links {
-    justify-content: center;
-
+    text-decoration: none;
 }
 
 .logo-img {
