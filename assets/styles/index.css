@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    padding: 0;
     color: aliceblue;
 }
 .navbar {
@@ -16,5 +17,10 @@
 
 ul {
     list-style: none;
+
+}
+
+.nav-links {
+    justify-content: center;
 
 }
