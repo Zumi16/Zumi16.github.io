@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: aliceblue;
+    color: rgb(39, 39, 39);
     font-family: "Alan Sans", sans-serif;
 }
 
@@ -13,18 +13,18 @@
     justify-content: center;
     height: 100vh;
     width: 100%;
-    background-color: rgb(29, 36, 61);
+    background-color: #fffef8;
 }
 
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 3rem;
-    height: 50px;
+    padding: 0 10rem;
+    height: 70px;
     width: 100%;
-    background-color: rgb(55, 68, 116);
-    border-bottom: 2px solid rgb(29, 36, 61);
+    background-color: #fffef8;
+    border-bottom: 2px solid rgb(67, 67, 67);
 }
 
 .logo-img {
@@ -39,5 +39,6 @@
     gap: 2rem;           
     list-style: none;
     font-weight: 600;
+    font-size: 1rem;
 }
 
