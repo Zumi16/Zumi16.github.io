@@ -6,15 +6,16 @@
 }
 .navbar {
     display: flex;
-    gap: 40%;
+    gap: 55%;
     height: 50px;
     width: 100%;
-    background-color: rgb(38, 53, 106);
+    background-color: rgb(55, 68, 116);
+    border-bottom: 2px solid rgb(29, 36, 61);
 }
 
 .nav-links {
     display: flex;
-    gap: 50px;
+    gap: 40px;
     align-items: center;
     height: 100%;
     margin: auto;
